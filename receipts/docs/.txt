@@ -1,0 +1,7 @@
+Piriton;10;21;210;
+Actal;12;10;120;
+celastemine;22;4;88;
+celastemine;30;4;120;
+Piriton;10;10;100;
+TOTAL;;;638;
+GRAND TOTAL;;;;;638
